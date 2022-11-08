@@ -1,4 +1,4 @@
-# Web Hospital Info
+# Simple Messenger Info
 
 Estoy es una corta documentación sobre mi app como prueba técnica para la empresa Lubee.
 
